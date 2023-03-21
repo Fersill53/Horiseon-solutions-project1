@@ -13,3 +13,6 @@ The purpose is to use our knowledge gained from the prework exercises and apply 
 - In this project I learned:
   - How to use pre-written code and add it to my own repository.
   - Utilize the code to edit and deploy a new product that satifies the acceptance criteria.
+
+## Sources
+Source code provided by the UT Fullstack development bootcamp
