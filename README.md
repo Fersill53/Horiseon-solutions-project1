@@ -21,4 +21,4 @@ Source code provided by the UT Fullstack development bootcamp
 https://fersill53.github.io/Horiseon-solutions-project1/
 
 
-[Horiseon-solutions.png](https://github.com/Fersill53/Horiseon-solutions-project1/blob/main/Horiseon-solutions.png)
+![Horiseon-solutions.png](https://github.com/Fersill53/Horiseon-solutions-project1/blob/main/Horiseon-solutions.png)
